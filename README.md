@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0049-group-anagrams](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0049-group-anagrams) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0242-valid-anagram) |
 | [0049-group-anagrams](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0049-group-anagrams) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
