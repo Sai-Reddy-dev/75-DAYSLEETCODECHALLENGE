@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0049-group-anagrams) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0347-top-k-frequent-elements) |
+| [0238-product-of-array-except-self](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
