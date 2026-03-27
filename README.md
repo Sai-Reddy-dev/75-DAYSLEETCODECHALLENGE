@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0643-maximum-average-subarray-i](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0643-maximum-average-subarray-i) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Divide and Conquer
 |  |
 | ------- |
