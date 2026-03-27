@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0049-group-anagrams](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0347-top-k-frequent-elements) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0242-valid-anagram) |
 | [0049-group-anagrams](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0125-valid-palindrome) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0643-maximum-average-subarray-i) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
