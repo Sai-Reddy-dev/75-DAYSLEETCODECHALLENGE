@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0347-top-k-frequent-elements) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0125-valid-palindrome) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0424-longest-repeating-character-replacement) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0643-maximum-average-subarray-i) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
