@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0643-maximum-average-subarray-i](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0643-maximum-average-subarray-i) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0232-implement-queue-using-stacks) |
 | [0155-min-stack](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0155-min-stack) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Design
 |  |
 | ------- |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0232-implement-queue-using-stacks) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
