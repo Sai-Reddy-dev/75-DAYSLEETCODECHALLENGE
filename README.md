@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0643-maximum-average-subarray-i) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0232-implement-queue-using-stacks) |
 | [0155-min-stack](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0155-min-stack) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0150-evaluate-reverse-polish-notation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
