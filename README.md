@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0739-daily-temperatures) |
 | [0704-binary-search](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0704-binary-search) |
+| [0035-search-insert-position](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [0704-binary-search](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0704-binary-search) |
+| [0035-search-insert-position](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
