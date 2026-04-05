@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0739-daily-temperatures) |
 | [0704-binary-search](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0704-binary-search) |
 | [0035-search-insert-position](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [0704-binary-search](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0704-binary-search) |
 | [0035-search-insert-position](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0739-daily-temperatures) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
