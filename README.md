@@ -143,8 +143,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0206-reverse-linked-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0206-reverse-linked-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
