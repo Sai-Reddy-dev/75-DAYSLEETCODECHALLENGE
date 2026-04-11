@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0015-3sum) |
 | [0011-container-with-most-water](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0206-reverse-linked-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
