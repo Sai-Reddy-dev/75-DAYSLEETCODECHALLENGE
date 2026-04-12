@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0876-middle-of-the-linked-list) |
+| [0143-reorder-list](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0143-reorder-list) |
 ## Greedy
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0155-min-stack) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0739-daily-temperatures) |
+| [0143-reorder-list](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0143-reorder-list) |
 ## Design
 |  |
 | ------- |
@@ -149,9 +151,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0876-middle-of-the-linked-list) |
+| [0143-reorder-list](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0206-reverse-linked-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
