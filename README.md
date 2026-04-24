@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0424-longest-repeating-character-replacement) |
 | [0141-linked-list-cycle](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0141-linked-list-cycle) |
+| [0208-implement-trie-prefix-tree](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0208-implement-trie-prefix-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0424-longest-repeating-character-replacement) |
 | [0020-valid-parentheses](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0020-valid-parentheses) |
+| [0208-implement-trie-prefix-tree](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0208-implement-trie-prefix-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0232-implement-queue-using-stacks) |
 | [0155-min-stack](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0208-implement-trie-prefix-tree) |
 ## Queue
 |  |
 | ------- |
@@ -220,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0098-validate-binary-search-tree](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
