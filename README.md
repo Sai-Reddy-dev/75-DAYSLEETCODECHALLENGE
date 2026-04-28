@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0014-longest-common-prefix](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0424-longest-repeating-character-replacement) |
 | [0141-linked-list-cycle](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0208-implement-trie-prefix-tree) |
+| [0169-majority-element](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0347-top-k-frequent-elements) |
 | [0015-3sum](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0347-top-k-frequent-elements) |
+| [0169-majority-element](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -86,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0347-top-k-frequent-elements) |
+| [0169-majority-element](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0169-majority-element) |
 ## Quickselect
 |  |
 | ------- |
