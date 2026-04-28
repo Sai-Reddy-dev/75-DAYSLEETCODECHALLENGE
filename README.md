@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0014-longest-common-prefix](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0014-longest-common-prefix) |
+| [0136-single-number](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -234,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0014-longest-common-prefix](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
