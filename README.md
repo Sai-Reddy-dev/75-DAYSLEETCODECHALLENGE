@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0169-majority-element) |
+| [0036-valid-sudoku](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0036-valid-sudoku) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0208-implement-trie-prefix-tree) |
 | [0169-majority-element](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0169-majority-element) |
+| [0036-valid-sudoku](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0036-valid-sudoku) |
 ## Sorting
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0074-search-a-2d-matrix) |
+| [0036-valid-sudoku](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0036-valid-sudoku) |
 ## Linked List
 |  |
 | ------- |
