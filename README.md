@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0169-majority-element) |
 | [0036-valid-sudoku](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0208-implement-trie-prefix-tree) |
 | [0169-majority-element](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0169-majority-element) |
 | [0036-valid-sudoku](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0128-longest-consecutive-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0136-single-number) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
