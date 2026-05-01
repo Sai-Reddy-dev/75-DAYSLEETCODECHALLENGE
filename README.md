@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0169-majority-element) |
 | [0036-valid-sudoku](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0169-majority-element) |
 | [0036-valid-sudoku](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
