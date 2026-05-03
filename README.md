@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0560-subarray-sum-equals-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0347-top-k-frequent-elements) |
 | [0015-3sum](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0143-reorder-list) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0344-reverse-string](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
