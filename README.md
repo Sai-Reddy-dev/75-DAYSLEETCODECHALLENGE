@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0977-squares-of-a-sorted-array) |
 | [0075-sort-colors](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0075-sort-colors) |
+| [0016-3sum-closest](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0016-3sum-closest) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0977-squares-of-a-sorted-array) |
 | [0075-sort-colors](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0075-sort-colors) |
+| [0016-3sum-closest](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0016-3sum-closest) |
 ## String
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0977-squares-of-a-sorted-array) |
 | [0075-sort-colors](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0075-sort-colors) |
+| [0016-3sum-closest](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0016-3sum-closest) |
 ## Greedy
 |  |
 | ------- |
