@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0977-squares-of-a-sorted-array) |
 | [0075-sort-colors](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0075-sort-colors) |
 | [0016-3sum-closest](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0016-3sum-closest) |
+| [0001-two-sum](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0001-two-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0560-subarray-sum-equals-k) |
+| [0001-two-sum](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0001-two-sum) |
 ## Sorting
 |  |
 | ------- |
