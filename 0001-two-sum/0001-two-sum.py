@@ -5,12 +5,14 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        n = len(nums)
+        mp = {}
 
-        for i in range(n):
-            for j in range(i+1,n):
-                if nums[i] + nums[j] == target:
-                    return [i,j]
-        return -1
+        for i,num in enumerate(nums):
+            complement = target - num
 
-        
+            if complement in mp:
+                return [mp[complement],i]
+            
+            mp[num] = i
+
+        return [-1,-1]
