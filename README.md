@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0014-longest-common-prefix](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0344-reverse-string) |
+| [0005-longest-palindromic-substring](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0005-longest-palindromic-substring) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0977-squares-of-a-sorted-array) |
 | [0075-sort-colors](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0075-sort-colors) |
 | [0016-3sum-closest](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0016-3sum-closest) |
+| [0005-longest-palindromic-substring](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0005-longest-palindromic-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0005-longest-palindromic-substring](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
