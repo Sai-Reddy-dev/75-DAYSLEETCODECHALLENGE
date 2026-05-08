@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0016-3sum-closest) |
 | [0001-two-sum](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0209-minimum-size-subarray-sum) |
+| [0056-merge-intervals](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0056-merge-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0977-squares-of-a-sorted-array) |
 | [0075-sort-colors](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0075-sort-colors) |
 | [0016-3sum-closest](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0056-merge-intervals) |
 ## String
 |  |
 | ------- |
