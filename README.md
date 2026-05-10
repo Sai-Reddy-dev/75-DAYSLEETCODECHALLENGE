@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0209-minimum-size-subarray-sum) |
 | [0056-merge-intervals](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0056-merge-intervals) |
+| [1901-find-a-peak-element-ii](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0209-minimum-size-subarray-sum) |
+| [1901-find-a-peak-element-ii](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0074-search-a-2d-matrix) |
 | [0036-valid-sudoku](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0036-valid-sudoku) |
+| [1901-find-a-peak-element-ii](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1901-find-a-peak-element-ii) |
 ## Linked List
 |  |
 | ------- |
