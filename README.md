@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0344-reverse-string) |
 | [0005-longest-palindromic-substring](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0005-longest-palindromic-substring) |
+| [1021-remove-outermost-parentheses](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0739-daily-temperatures) |
 | [0143-reorder-list](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0143-reorder-list) |
+| [1021-remove-outermost-parentheses](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
