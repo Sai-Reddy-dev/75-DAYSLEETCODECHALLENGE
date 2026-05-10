@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0344-reverse-string) |
 | [0005-longest-palindromic-substring](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0005-longest-palindromic-substring) |
 | [1021-remove-outermost-parentheses](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1021-remove-outermost-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0151-reverse-words-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0075-sort-colors) |
 | [0016-3sum-closest](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0016-3sum-closest) |
 | [0005-longest-palindromic-substring](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0005-longest-palindromic-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0151-reverse-words-in-a-string) |
 ## Greedy
 |  |
 | ------- |
