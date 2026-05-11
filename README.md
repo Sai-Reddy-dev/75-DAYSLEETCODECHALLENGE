@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0151-reverse-words-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1903-largest-odd-number-in-string) |
 | [0205-isomorphic-strings](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0205-isomorphic-strings) |
+| [0796-rotate-string](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0796-rotate-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
