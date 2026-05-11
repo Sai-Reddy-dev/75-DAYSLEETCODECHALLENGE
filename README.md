@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0560-subarray-sum-equals-k) |
 | [0001-two-sum](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0205-isomorphic-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1021-remove-outermost-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0151-reverse-words-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1903-largest-odd-number-in-string) |
+| [0205-isomorphic-strings](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0205-isomorphic-strings) |
 ## Binary Search
 |  |
 | ------- |
