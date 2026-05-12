@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0205-isomorphic-strings) |
 | [0796-rotate-string](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0796-rotate-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0451-sort-characters-by-frequency) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0739-daily-temperatures) |
 | [0143-reorder-list](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0143-reorder-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
