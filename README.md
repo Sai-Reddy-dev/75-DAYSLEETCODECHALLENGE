@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0451-sort-characters-by-frequency) |
 | [0013-roman-to-integer](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0013-roman-to-integer) |
 | [0008-string-to-integer-atoi](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0008-string-to-integer-atoi) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0347-top-k-frequent-elements) |
 | [0169-majority-element](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Quickselect
 |  |
 | ------- |
