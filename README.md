@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0209-minimum-size-subarray-sum) |
 | [0056-merge-intervals](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0056-merge-intervals) |
 | [1901-find-a-peak-element-ii](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1901-find-a-peak-element-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0005-longest-palindromic-substring](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0005-longest-palindromic-substring) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -313,4 +315,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0128-longest-consecutive-sequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
