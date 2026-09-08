@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0056-merge-intervals) |
 | [1901-find-a-peak-element-ii](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1901-find-a-peak-element-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0189-rotate-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0016-3sum-closest) |
 | [0005-longest-palindromic-substring](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1903-largest-odd-number-in-string) |
 | [0013-roman-to-integer](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0013-roman-to-integer) |
 | [0002-add-two-numbers](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0189-rotate-array) |
 ## Monotonic Stack
 |  |
 | ------- |
