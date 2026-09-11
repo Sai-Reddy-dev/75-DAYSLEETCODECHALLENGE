@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1901-find-a-peak-element-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0189-rotate-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0189-rotate-array) |
+| [0485-max-consecutive-ones](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
