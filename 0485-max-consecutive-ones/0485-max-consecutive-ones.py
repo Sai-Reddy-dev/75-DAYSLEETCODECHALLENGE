@@ -8,12 +8,14 @@ class Solution(object):
         max_count = 0
         n = len(nums)
 
-        for i in  range(n):
-            if nums[i] == 1:
+        for i in  nums:
+            if i:
                 count += 1
-            elif nums[i] == 0:
-                max_count = max(max_count,count)
+            else:
+                if max_count < count:
+                   max_count = count
                 count = 0
-            if i == n-1:
-                max_count = max(max_count,count)
+        if max_count < count:
+            max_count = count
+            count = 0
         return max_count
