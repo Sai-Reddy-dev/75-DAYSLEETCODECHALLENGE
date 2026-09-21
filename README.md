@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0189-rotate-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0209-minimum-size-subarray-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/1901-find-a-peak-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sai-Reddy-dev/75-DAYSLEETCODECHALLENGE/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
